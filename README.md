@@ -1,3 +1,11 @@
+## Usefull links
+
+* [Download lnav - logs navigator](http://lnav.org/downloads)
+* [lnav docs](https://lnav.readthedocs.io/en/latest/)
+* [Sentry site](https://sentry.io/welcome/)
+
+
+
 # Elastic stack (ELK) on Docker
 
 [![Join the chat at https://gitter.im/deviantony/docker-elk](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/deviantony/docker-elk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
