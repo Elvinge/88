@@ -3,6 +3,7 @@
 * [Download lnav - logs navigator](http://lnav.org/downloads)
 * [lnav docs](https://lnav.readthedocs.io/en/latest/)
 * [Sentry site](https://sentry.io/welcome/)
+* [FIlebeat configuration reference](https://www.elastic.co/guide/en/beats/filebeat/current/filebeat-reference-yml.html)
 
 
 
