@@ -1,0 +1,173 @@
+2017/11/29 09:53:52 [emerg] 8#8: BIO_new_file("/opt/regru-cert/certs/api.cloudvps.reg.ru.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/api.cloudvps.reg.ru.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2017/11/29 09:54:09 [emerg] 9#9: BIO_new_file("/opt/regru-cert/certs/api.cloudvps.reg.ru.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/api.cloudvps.reg.ru.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2017/11/29 09:54:25 [emerg] 9#9: BIO_new_file("/opt/regru-cert/certs/api.cloudvps.reg.ru.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/api.cloudvps.reg.ru.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2017/11/29 09:54:59 [emerg] 10#10: BIO_new_file("/opt/regru-cert/certs/api.cloudvps.reg.ru.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/api.cloudvps.reg.ru.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2017/11/29 09:55:09 [emerg] 9#9: BIO_new_file("/opt/regru-cert/certs/api.cloudvps.reg.ru.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/api.cloudvps.reg.ru.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2017/11/29 09:55:24 [emerg] 9#9: BIO_new_file("/opt/regru-cert/certs/api.cloudvps.reg.ru.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/api.cloudvps.reg.ru.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2017/11/29 09:56:15 [emerg] 8#8: BIO_new_file("/opt/regru-cert/certs/api.cloudvps.reg.ru.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/api.cloudvps.reg.ru.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2017/11/29 09:57:02 [emerg] 9#9: BIO_new_file("/opt/regru-cert/certs/api.cloudvps.reg.ru.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/api.cloudvps.reg.ru.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2017/11/29 09:58:14 [emerg] 9#9: BIO_new_file("/opt/regru-cert/certs/api.cloudvps.reg.ru.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/api.cloudvps.reg.ru.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2017/11/29 10:00:15 [emerg] 9#9: BIO_new_file("/opt/regru-cert/certs/api.cloudvps.reg.ru.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/api.cloudvps.reg.ru.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2017/11/29 10:02:29 [emerg] 8#8: BIO_new_file("/opt/regru-cert/certs/api.cloudvps.reg.ru.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/api.cloudvps.reg.ru.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2017/11/29 10:04:44 [emerg] 9#9: BIO_new_file("/opt/regru-cert/certs/api.cloudvps.reg.ru.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/api.cloudvps.reg.ru.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2017/11/29 10:07:01 [emerg] 9#9: BIO_new_file("/opt/regru-cert/certs/api.cloudvps.reg.ru.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/api.cloudvps.reg.ru.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2017/11/29 10:09:22 [emerg] 11#11: BIO_new_file("/opt/regru-cert/certs/api.cloudvps.reg.ru.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/api.cloudvps.reg.ru.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2017/11/29 10:11:32 [emerg] 9#9: BIO_new_file("/opt/regru-cert/certs/api.cloudvps.reg.ru.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/api.cloudvps.reg.ru.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2018/01/26 12:40:04 [emerg] 9#9: SSL_CTX_load_verify_locations("/opt/regru-cert/certs/ymbills_full.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/ymbills_full.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file error:0B084002:x509 certificate routines:X509_load_cert_crl_file:system lib)
+2018/01/26 12:40:27 [emerg] 9#9: SSL_CTX_load_verify_locations("/opt/regru-cert/certs/ymbills_full.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/ymbills_full.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file error:0B084002:x509 certificate routines:X509_load_cert_crl_file:system lib)
+2018/01/26 12:40:41 [emerg] 10#10: SSL_CTX_load_verify_locations("/opt/regru-cert/certs/ymbills_full.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/ymbills_full.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file error:0B084002:x509 certificate routines:X509_load_cert_crl_file:system lib)
+2018/01/26 12:40:56 [emerg] 9#9: SSL_CTX_load_verify_locations("/opt/regru-cert/certs/ymbills_full.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/ymbills_full.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file error:0B084002:x509 certificate routines:X509_load_cert_crl_file:system lib)
+2018/01/26 12:41:17 [emerg] 9#9: SSL_CTX_load_verify_locations("/opt/regru-cert/certs/ymbills_full.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/ymbills_full.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file error:0B084002:x509 certificate routines:X509_load_cert_crl_file:system lib)
+2018/01/26 12:41:27 [emerg] 9#9: SSL_CTX_load_verify_locations("/opt/regru-cert/certs/ymbills_full.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/ymbills_full.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file error:0B084002:x509 certificate routines:X509_load_cert_crl_file:system lib)
+2018/01/26 12:41:42 [emerg] 11#11: SSL_CTX_load_verify_locations("/opt/regru-cert/certs/ymbills_full.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/ymbills_full.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file error:0B084002:x509 certificate routines:X509_load_cert_crl_file:system lib)
+2018/01/26 12:41:56 [emerg] 9#9: SSL_CTX_load_verify_locations("/opt/regru-cert/certs/ymbills_full.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/ymbills_full.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file error:0B084002:x509 certificate routines:X509_load_cert_crl_file:system lib)
+2018/01/26 12:42:31 [emerg] 9#9: SSL_CTX_load_verify_locations("/opt/regru-cert/certs/ymbills_full.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/ymbills_full.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file error:0B084002:x509 certificate routines:X509_load_cert_crl_file:system lib)
+2018/01/26 12:43:15 [emerg] 8#8: SSL_CTX_load_verify_locations("/opt/regru-cert/certs/ymbills_full.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/ymbills_full.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file error:0B084002:x509 certificate routines:X509_load_cert_crl_file:system lib)
+2018/01/26 12:44:31 [emerg] 9#9: SSL_CTX_load_verify_locations("/opt/regru-cert/certs/ymbills_full.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/ymbills_full.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file error:0B084002:x509 certificate routines:X509_load_cert_crl_file:system lib)
+2018/01/26 12:56:20 [emerg] 9#9: SSL_CTX_load_verify_locations("/opt/regru-cert/certs/ymbills_full.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/ymbills_full.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file error:0B084002:x509 certificate routines:X509_load_cert_crl_file:system lib)
+2018/01/26 12:56:27 [emerg] 9#9: SSL_CTX_load_verify_locations("/opt/regru-cert/certs/ymbills_full.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/ymbills_full.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file error:0B084002:x509 certificate routines:X509_load_cert_crl_file:system lib)
+2018/01/26 12:56:41 [emerg] 8#8: SSL_CTX_load_verify_locations("/opt/regru-cert/certs/ymbills_full.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/ymbills_full.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file error:0B084002:x509 certificate routines:X509_load_cert_crl_file:system lib)
+2018/01/26 12:56:56 [emerg] 8#8: SSL_CTX_load_verify_locations("/opt/regru-cert/certs/ymbills_full.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/ymbills_full.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file error:0B084002:x509 certificate routines:X509_load_cert_crl_file:system lib)
+2018/01/26 12:57:12 [emerg] 8#8: SSL_CTX_load_verify_locations("/opt/regru-cert/certs/ymbills_full.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/ymbills_full.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file error:0B084002:x509 certificate routines:X509_load_cert_crl_file:system lib)
+2018/01/26 12:57:27 [emerg] 9#9: SSL_CTX_load_verify_locations("/opt/regru-cert/certs/ymbills_full.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/ymbills_full.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file error:0B084002:x509 certificate routines:X509_load_cert_crl_file:system lib)
+2018/01/26 12:57:42 [emerg] 9#9: SSL_CTX_load_verify_locations("/opt/regru-cert/certs/ymbills_full.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/ymbills_full.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file error:0B084002:x509 certificate routines:X509_load_cert_crl_file:system lib)
+2018/01/26 12:57:57 [emerg] 11#11: SSL_CTX_load_verify_locations("/opt/regru-cert/certs/ymbills_full.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/ymbills_full.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file error:0B084002:x509 certificate routines:X509_load_cert_crl_file:system lib)
+2018/01/26 12:58:32 [emerg] 9#9: SSL_CTX_load_verify_locations("/opt/regru-cert/certs/ymbills_full.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/ymbills_full.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file error:0B084002:x509 certificate routines:X509_load_cert_crl_file:system lib)
+2018/01/26 12:59:17 [emerg] 9#9: SSL_CTX_load_verify_locations("/opt/regru-cert/certs/ymbills_full.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/ymbills_full.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file error:0B084002:x509 certificate routines:X509_load_cert_crl_file:system lib)
+2018/01/26 13:00:32 [emerg] 9#9: SSL_CTX_load_verify_locations("/opt/regru-cert/certs/ymbills_full.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/ymbills_full.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file error:0B084002:x509 certificate routines:X509_load_cert_crl_file:system lib)
+2018/01/26 13:02:33 [emerg] 8#8: SSL_CTX_load_verify_locations("/opt/regru-cert/certs/ymbills_full.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/ymbills_full.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file error:0B084002:x509 certificate routines:X509_load_cert_crl_file:system lib)
+2018/01/26 13:04:49 [emerg] 8#8: SSL_CTX_load_verify_locations("/opt/regru-cert/certs/ymbills_full.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/ymbills_full.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file error:0B084002:x509 certificate routines:X509_load_cert_crl_file:system lib)
+2018/01/26 13:07:02 [emerg] 9#9: SSL_CTX_load_verify_locations("/opt/regru-cert/certs/ymbills_full.crt") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/ymbills_full.crt','r') error:2006D080:BIO routines:BIO_new_file:no such file error:0B084002:x509 certificate routines:X509_load_cert_crl_file:system lib)
+2018/10/24 15:36:00 [emerg] 10#10: host not found in upstream "ec6.dev.int.reg.ru:3001" in /opt/fo-configs/config/nginx_new/upstreams_docker_prod_dc1_blue.inc:6
+2019/02/22 16:53:48 [emerg] 10#10: host not found in upstream "kubeprod" in /etc/nginx/core.conf:388
+2019/02/22 16:54:38 [emerg] 9#9: host not found in upstream "kubeprod" in /etc/nginx/core.conf:388
+2019/02/22 16:55:02 [emerg] 9#9: host not found in upstream "kubeprod" in /etc/nginx/core.conf:388
+2019/02/22 16:55:18 [emerg] 9#9: host not found in upstream "kubeprod" in /etc/nginx/core.conf:388
+2019/02/22 16:55:32 [emerg] 9#9: host not found in upstream "kubeprod" in /etc/nginx/core.conf:388
+2019/02/22 16:55:46 [emerg] 9#9: host not found in upstream "kubeprod" in /etc/nginx/core.conf:388
+2019/02/22 16:56:00 [emerg] 9#9: host not found in upstream "kubeprod" in /etc/nginx/core.conf:388
+2019/02/22 16:56:33 [emerg] 9#9: host not found in upstream "kubeprod" in /etc/nginx/core.conf:388
+2019/03/06 16:08:45 [emerg] 9#9: BIO_new_file("/opt/regru-cert/certs/regrulink.pem") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/regrulink.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2019/03/06 16:08:54 [emerg] 9#9: BIO_new_file("/opt/regru-cert/certs/regrulink.pem") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/regrulink.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2019/03/06 16:09:10 [emerg] 9#9: BIO_new_file("/opt/regru-cert/certs/regrulink.pem") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/regrulink.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2019/03/06 16:09:28 [emerg] 9#9: BIO_new_file("/opt/regru-cert/certs/regrulink.pem") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/regrulink.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2019/03/06 16:09:42 [emerg] 9#9: BIO_new_file("/opt/regru-cert/certs/regrulink.pem") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/regrulink.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2019/03/06 16:09:59 [emerg] 9#9: BIO_new_file("/opt/regru-cert/certs/regrulink.pem") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/regrulink.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2019/03/06 16:10:47 [emerg] 9#9: BIO_new_file("/opt/regru-cert/certs/regrulink.pem") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/regrulink.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2019/03/06 16:11:09 [emerg] 9#9: BIO_new_file("/opt/regru-cert/certs/regrulink.pem") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/regrulink.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2019/03/06 16:11:43 [emerg] 10#10: BIO_new_file("/opt/regru-cert/certs/regrulink.pem") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/regrulink.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2019/03/06 16:12:27 [emerg] 9#9: BIO_new_file("/opt/regru-cert/certs/regrulink.pem") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/regrulink.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2019/03/06 16:13:42 [emerg] 8#8: BIO_new_file("/opt/regru-cert/certs/regrulink.pem") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/regrulink.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2019/03/06 16:15:42 [emerg] 8#8: BIO_new_file("/opt/regru-cert/certs/regrulink.pem") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/regrulink.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2019/03/06 16:17:57 [emerg] 10#10: BIO_new_file("/opt/regru-cert/certs/regrulink.pem") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/regrulink.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2019/03/06 16:20:12 [emerg] 9#9: BIO_new_file("/opt/regru-cert/certs/regrulink.pem") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/regrulink.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2019/03/06 16:22:31 [emerg] 9#9: BIO_new_file("/opt/regru-cert/certs/regrulink.pem") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/regrulink.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2019/03/06 16:24:43 [emerg] 9#9: BIO_new_file("/opt/regru-cert/certs/regrulink.pem") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/regrulink.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2019/03/06 16:27:10 [emerg] 9#9: BIO_new_file("/opt/regru-cert/certs/regrulink.pem") failed (SSL: error:02001002:system library:fopen:No such file or directory:fopen('/opt/regru-cert/certs/regrulink.pem','r') error:2006D080:BIO routines:BIO_new_file:no such file)
+2019/03/15 09:55:45 [emerg] 8#8: "set" directive is not allowed here in /etc/nginx/core.conf:36
+2019/03/15 09:55:54 [emerg] 8#8: "set" directive is not allowed here in /etc/nginx/core.conf:36
+2019/03/15 09:56:09 [emerg] 9#9: "set" directive is not allowed here in /etc/nginx/core.conf:36
+2019/03/15 09:56:26 [emerg] 9#9: "set" directive is not allowed here in /etc/nginx/core.conf:36
+2019/03/15 09:56:40 [emerg] 9#9: "set" directive is not allowed here in /etc/nginx/core.conf:36
+2019/03/15 09:56:54 [emerg] 9#9: "set" directive is not allowed here in /etc/nginx/core.conf:36
+2019/03/15 09:57:09 [emerg] 9#9: "set" directive is not allowed here in /etc/nginx/core.conf:36
+2019/03/15 09:57:26 [emerg] 9#9: "set" directive is not allowed here in /etc/nginx/core.conf:36
+2019/03/15 09:57:54 [emerg] 9#9: "set" directive is not allowed here in /etc/nginx/core.conf:36
+2019/03/15 09:58:41 [emerg] 9#9: "set" directive is not allowed here in /etc/nginx/core.conf:36
+2019/03/15 09:59:41 [emerg] 9#9: "set" directive is not allowed here in /etc/nginx/core.conf:36
+2019/03/15 10:01:42 [emerg] 8#8: "set" directive is not allowed here in /etc/nginx/core.conf:36
+2019/04/09 09:07:13 [emerg] 9#9: unexpected "}" in /opt/fo-configs/config/nginx_new/regru-common.inc:67
+2019/04/09 09:07:32 [emerg] 9#9: unexpected "}" in /opt/fo-configs/config/nginx_new/regru-common.inc:67
+2019/04/09 09:07:48 [emerg] 9#9: unexpected "}" in /opt/fo-configs/config/nginx_new/regru-common.inc:67
+2019/04/09 09:08:05 [emerg] 8#8: unexpected "}" in /opt/fo-configs/config/nginx_new/regru-common.inc:67
+2019/04/09 09:14:45 [emerg] 9#9: location "/docs/download/" is outside location "^/(?:docs)/" in /opt/fo-configs/config/nginx_new/regru-common.inc:272
+2019/04/09 09:15:06 [emerg] 8#8: location "/docs/download/" is outside location "^/(?:docs)/" in /opt/fo-configs/config/nginx_new/regru-common.inc:272
+2019/04/09 09:15:19 [emerg] 9#9: location "/docs/download/" is outside location "^/(?:docs)/" in /opt/fo-configs/config/nginx_new/regru-common.inc:272
+2019/04/09 09:15:34 [emerg] 9#9: location "/docs/download/" is outside location "^/(?:docs)/" in /opt/fo-configs/config/nginx_new/regru-common.inc:272
+2019/04/09 09:15:48 [emerg] 8#8: location "/docs/download/" is outside location "^/(?:docs)/" in /opt/fo-configs/config/nginx_new/regru-common.inc:272
+2019/04/09 09:16:06 [emerg] 8#8: location "/docs/download/" is outside location "^/(?:docs)/" in /opt/fo-configs/config/nginx_new/regru-common.inc:272
+2019/04/19 06:38:37 [emerg] 10#10: host not found in upstream "ec21.dev.int.reg.ru:80" in /etc/nginx/nginx.conf:20
+2019/04/19 10:44:01 [emerg] 9#9: host not found in upstream "ec20.dev.int.reg.ru:80" in /etc/nginx/nginx.conf:19
+2019/04/19 11:35:34 [emerg] 9#9: host not found in upstream "ec7.dev.int.reg.ru:4010" in /opt/fo-configs/config/nginx_new/upstreams_docker_prod_dc1_blue.inc:38
+2019/04/19 15:59:33 [emerg] 10#10: host not found in upstream "auth-exepto.int.reg.ru" in /etc/nginx/core.conf:570
+2019/04/19 17:54:34 [emerg] 9#9: host not found in upstream "ec10.dev.int.reg.ru:9580" in /opt/fo-configs/config/nginx_new/upstreams_ids.inc:9
+2019/04/23 12:38:04 [warn] 8#8: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/23 12:38:04 [warn] 9#9: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/23 13:11:52 [warn] 8#8: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/23 13:11:52 [warn] 9#9: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/23 13:59:04 [warn] 8#8: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/23 13:59:04 [warn] 9#9: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/23 15:57:36 [warn] 9#9: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/23 15:57:36 [warn] 10#10: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/23 17:50:57 [warn] 9#9: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/23 17:50:57 [warn] 10#10: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/23 19:44:31 [warn] 9#9: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/23 19:44:31 [warn] 10#10: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/23 21:37:27 [warn] 9#9: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/23 21:37:27 [warn] 10#10: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/23 23:36:20 [warn] 9#9: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/23 23:36:20 [warn] 10#10: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 01:37:58 [warn] 9#9: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 01:37:59 [warn] 10#10: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 03:38:19 [warn] 9#9: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 03:38:19 [warn] 10#10: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 05:42:15 [warn] 9#9: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 05:42:15 [warn] 10#10: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 07:21:09 [warn] 9#9: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 07:21:09 [warn] 10#10: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 08:40:53 [warn] 8#8: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 08:40:54 [warn] 9#9: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 09:42:53 [warn] 9#9: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 09:42:53 [warn] 10#10: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 12:02:31 [warn] 9#9: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 12:02:31 [warn] 10#10: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 13:42:03 [warn] 9#9: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 13:42:03 [warn] 10#10: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 14:55:11 [warn] 9#9: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 14:55:11 [warn] 10#10: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 15:44:00 [warn] 9#9: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 15:44:00 [warn] 10#10: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 16:16:06 [warn] 9#9: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 16:16:06 [warn] 10#10: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 16:58:57 [warn] 12#12: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 16:58:57 [warn] 13#13: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 18:43:12 [warn] 9#9: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 18:43:12 [warn] 10#10: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 19:50:31 [warn] 9#9: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 19:50:31 [warn] 10#10: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 20:36:13 [warn] 9#9: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 20:36:13 [warn] 10#10: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 22:36:40 [warn] 9#9: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 22:36:41 [warn] 10#10: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 23:01:11 [warn] 10#10: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 23:01:11 [warn] 11#11: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 23:38:11 [warn] 11#11: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 23:38:11 [warn] 12#12: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 23:38:39 [warn] 9#9: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/24 23:38:39 [warn] 10#10: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/25 01:36:39 [warn] 11#11: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/25 01:36:39 [warn] 12#12: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/25 03:37:11 [warn] 10#10: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/25 03:37:11 [warn] 11#11: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/25 04:37:21 [warn] 8#8: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/25 04:37:21 [warn] 9#9: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/25 06:39:03 [warn] 8#8: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/25 06:39:03 [warn] 9#9: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/25 07:38:15 [warn] 9#9: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/25 07:38:15 [warn] 10#10: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/25 09:44:11 [warn] 10#10: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/25 09:44:12 [warn] 11#11: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/25 11:40:40 [warn] 9#9: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/25 11:40:40 [warn] 10#10: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/25 13:27:57 [warn] 9#9: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/25 13:27:57 [warn] 10#10: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/25 14:40:45 [warn] 9#9: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/25 14:40:45 [warn] 10#10: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/25 15:22:19 [warn] 9#9: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/25 15:22:19 [warn] 10#10: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/25 15:28:36 [warn] 9#9: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/25 15:28:36 [warn] 10#10: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/25 16:05:35 [warn] 8#8: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/25 16:05:35 [warn] 9#9: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/25 16:43:07 [warn] 9#9: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
+2019/04/25 16:43:07 [warn] 10#10: conflicting server name "order.reg.ru" on 0.0.0.0:3500, ignored
